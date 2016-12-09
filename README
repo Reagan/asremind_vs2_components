@@ -1,0 +1,9 @@
+Custom UI Components (JavaFX - ASRemind Version 2) 
+==================================================
+
++ Introduction 
+This package contains a set of UI components used for ASRemind Version 2. ASRemind is a minimal reminder application that links to existing calendars or a local database and displays tasks for a particular time period. ASRemind version 2 uses a minimalist UI to remind users of upcoming applications as well as add more activities to calendars. 
+
+All Components written in this package are developed using JavaFX version 2 to use the features available in this library. 
+ 
+
